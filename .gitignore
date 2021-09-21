@@ -24,6 +24,8 @@ pip-wheel-metadata/
 share/python-wheels/
 *.egg-info/
 .installed.cfg
+#Adding DS Store
+.DS_Store
 *.egg
 MANIFEST
 
@@ -127,5 +129,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-#Adding DS Store
-.DS_Store
+
