@@ -34,4 +34,25 @@ It is noticed here that the Average math score dropped by 0.1% after adding Thom
 It is noticed here that after removing the 9th grade scores from Thomas High, the passing averages slightly changed 
 however when we did the NaN the average changed slightly, but the percentage dropped significantly
 
+3) A) Original:
+<img width="991" alt="Screen Shot 2021-09-25 at 3 09 15 PM" src="https://user-images.githubusercontent.com/89428205/134787246-a0649d45-1dd3-4d55-8b3e-d133f3d38c8f.png">
+
+   B) Updated
+   
+   <img width="991" alt="Screen Shot 2021-09-25 at 3 10 15 PM " src="https://user-images.githubusercontent.com/89428205/134787261-a905fe3e-acb4-4765-b1bc-c5f26991a6d1.png">
+
+Here it is noticed that Thomas high's performance is still the 2nd best in relativity with other schools
+
+
+
+
+
+
+
+
+
+
+
+
+   
 
