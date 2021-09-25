@@ -36,6 +36,7 @@ however when we did the NaN the average changed slightly, but the percentage dro
 
 3) Replacing 9th grader math and reading scores 
    A) Original:
+   
 <img width="991" alt="Screen Shot 2021-09-25 at 3 09 15 PM" src="https://user-images.githubusercontent.com/89428205/134787246-a0649d45-1dd3-4d55-8b3e-d133f3d38c8f.png">
 
    B) Updated
@@ -47,20 +48,24 @@ Here it is noticed that Thomas high's performance is still the 2nd best in relat
 
 4) replacing the 9th grade affected:
    A) Math reading by score
+   
    <img width="342" alt="Screen Shot 2021-09-25 at 3 09 22 PM" src="https://user-images.githubusercontent.com/89428205/134787413-4afca1e1-f95e-4533-a642-2ba33318b0f0.png">
 
 
    B) no change to the spending bins
+   
    <img width="835" alt="Screen Shot 2021-09-25 at 3 09 49 PM" src="https://user-images.githubusercontent.com/89428205/134787426-de50b823-f858-49c5-99a7-92d66d2248ac.png">
    
    
 
    C) no change to the school size
+   
    <img width="774" alt="Screen Shot 2021-09-25 at 3 10 14 PM" src="https://user-images.githubusercontent.com/89428205/134787422-2b9a0389-4fa5-4563-8915-469fe2843185.png">
    
    
 
    D) no change to scores by school type
+   
 <img width="761" alt="Screen Shot 2021-09-25 at 6 30 45 PM" src="https://user-images.githubusercontent.com/89428205/134787454-7c006993-8bd0-460c-87a5-4a13491f8dff.png">
 
 
@@ -68,9 +73,14 @@ Here it is noticed that Thomas high's performance is still the 2nd best in relat
 
 Summary
 ---------
+The largest impact of replacing the ninth grade math and reading scores at Thomas High School was within the per_school_summary_df.
+the 4 changes in the updated school district analysis after reading and math scores at Thomas High School have been replaced with NaNs are as follows:
 
-
-
+Math Average dropped by 0.1%
+Reading Average dropped by 0.05%
+Math Percent Passed dropped by 0.04%
+overall Percent Passed dropped by 0.29%
+ninth grade Thomas High got NaN
 
 
 
