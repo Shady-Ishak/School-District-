@@ -26,4 +26,9 @@ It is noticed here that the Average math score dropped by 0.1% after adding Thom
     <img width="445" alt="Screen Shot 2021-09-25 at 3 09 25 PM" src="https://user-images.githubusercontent.com/89428205/134787069-5989bf4c-2f0a-4285-b55c-ba7f828cdcbf.png">
 
     C) Adjusting Student count (Focus Thomas High)
-      
+      <img width="993" alt="Screen Shot 2021-09-25 at 3 09 58 PM" src="https://user-images.githubusercontent.com/89428205/134787102-129a9e83-f3c2-4351-b1c3-7326b2662081.png">
+
+It is noticed here that after removing the 9th grade scores from Thomas High, the passing averages slightly changed 
+however when we did the NaN the average changed slightly, but the percentage dropped significantly
+
+
